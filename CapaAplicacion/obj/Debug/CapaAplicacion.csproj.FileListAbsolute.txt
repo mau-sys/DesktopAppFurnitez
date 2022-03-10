@@ -1,0 +1,11 @@
+D:\Mis Proyectos\Programación\Solución_Furnitez\CapaAplicacion\bin\Debug\CapaAplicacion.dll
+D:\Mis Proyectos\Programación\Solución_Furnitez\CapaAplicacion\bin\Debug\CapaAplicacion.pdb
+D:\Mis Proyectos\Programación\Solución_Furnitez\CapaAplicacion\bin\Debug\CapaDominio.dll
+D:\Mis Proyectos\Programación\Solución_Furnitez\CapaAplicacion\bin\Debug\CapaPersistencia.dll
+D:\Mis Proyectos\Programación\Solución_Furnitez\CapaAplicacion\bin\Debug\CapaDominio.pdb
+D:\Mis Proyectos\Programación\Solución_Furnitez\CapaAplicacion\bin\Debug\CapaPersistencia.pdb
+D:\Mis Proyectos\Programación\Solución_Furnitez\CapaAplicacion\obj\Debug\CapaAplicacion.csproj.AssemblyReference.cache
+D:\Mis Proyectos\Programación\Solución_Furnitez\CapaAplicacion\obj\Debug\CapaAplicacion.csproj.CoreCompileInputs.cache
+D:\Mis Proyectos\Programación\Solución_Furnitez\CapaAplicacion\obj\Debug\CapaAplicacion.csproj.CopyComplete
+D:\Mis Proyectos\Programación\Solución_Furnitez\CapaAplicacion\obj\Debug\CapaAplicacion.dll
+D:\Mis Proyectos\Programación\Solución_Furnitez\CapaAplicacion\obj\Debug\CapaAplicacion.pdb
